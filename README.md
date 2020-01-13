@@ -1,6 +1,1 @@
-Help
-save this now
-
-
-Ipsum Below
-what is this for i dont know
+Hello, this is a sample readme file for git
